@@ -34,22 +34,11 @@
       }
     }, duration)
   }
-  let code = `
-/*
+  let code = `/*
  * 首先，需要准备皮卡丘的皮
  */
 .preview{
-  height: 100%;
-  border: 1px solid green;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   background: #FEE433;
-}
-.wrapper{
-  width: 100%;
-  height: 165px;
-  position: relative;
 }
 /*
  * 接下来，画皮卡丘的鼻子

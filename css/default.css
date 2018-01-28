@@ -45,3 +45,14 @@ body{
 .actions>button:focus{
   outline: none;
 }
+.wrapper{
+  width: 100%;
+  height: 165px;
+  position: relative;
+}
+.preview{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
